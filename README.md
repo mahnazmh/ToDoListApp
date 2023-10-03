@@ -1,7 +1,5 @@
 # ToDoListApp
-This is a To do list app with django 
-![Login](https://github.com/mahnazmh/ToDoListApp/assets/88629696/d71806dc-729f-4c50-8f5a-16ef50809e44)
-
+This is a To do list app with django
 ![Login](https://github.com/mahnazmh/ToDoListApp/assets/88629696/31d1de81-695d-4eb5-be29-a0692ac70544|width=48)
 ![Register](https://github.com/mahnazmh/ToDoListApp/assets/88629696/a561f765-f243-4796-be8d-a7084ae97cd9|width=48)
 ![Tasks List](https://github.com/mahnazmh/ToDoListApp/assets/88629696/63e34e02-2f13-42e7-8aa6-c922314cdf5f|width=48)
